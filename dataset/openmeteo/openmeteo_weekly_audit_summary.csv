@@ -1,0 +1,11 @@
+region,location,expected_flunet_weeks,observed_weather_weeks,complete_weeks,incomplete_weeks,coverage_percent,missing_flunet_weeks,extra_weather_weeks,duplicate_location_weeks,missing_weekly_mean,missing_weekly_min,missing_weekly_max,temperature_order_violations
+Chubu,Nagoya,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Chugoku,Hiroshima,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Hokkaido,Sapporo,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Japan Sea / Hokuriku,Niigata,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Kansai,Osaka,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Kanto,Tokyo,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Kyushu,Fukuoka,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Shikoku,Takamatsu,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Subtropical South,Naha,1522,1557,1557,0,100.0,0,35,0,0,0,0,0
+Tohoku,Sendai,1522,1557,1557,0,100.0,0,35,0,0,0,0,0

@@ -1,0 +1,15 @@
+name: pbl1_influenza
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - openpyxl
+  - ipykernel
+  - statsmodels
+  - numpy
+  - jupyterlab
+  - requests
+  - matplotlib
+  - pandas
+  - scipy
+prefix: /opt/anaconda3/envs/pbl1_influenza

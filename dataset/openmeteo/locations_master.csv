@@ -1,0 +1,11 @@
+region,location,admin1,country,country_code,latitude,longitude,elevation,timezone,geocoding_id
+Hokkaido,Sapporo,Hokkaido,Japan,JP,43.06667,141.35,26.0,Asia/Tokyo,2128295
+Tohoku,Sendai,Miyagi,Japan,JP,38.26667,140.86667,53.0,Asia/Tokyo,2111149
+Kanto,Tokyo,Tokyo,Japan,JP,35.6895,139.69171,44.0,Asia/Tokyo,1850147
+Japan Sea / Hokuriku,Niigata,Niigata,Japan,JP,37.92259,139.04124,1.0,Asia/Tokyo,1855431
+Chubu,Nagoya,Aichi,Japan,JP,35.18147,136.9064,23.0,Asia/Tokyo,1856057
+Kansai,Osaka,Osaka,Japan,JP,34.69379,135.50107,4.0,Asia/Tokyo,1853909
+Chugoku,Hiroshima,Hiroshima,Japan,JP,34.4,132.45,16.0,Asia/Tokyo,1862415
+Shikoku,Takamatsu,Kagawa,Japan,JP,34.33333,134.05,17.0,Asia/Tokyo,1851100
+Kyushu,Fukuoka,Fukuoka,Japan,JP,33.6,130.41667,3.0,Asia/Tokyo,1863967
+Subtropical South,Naha,Okinawa,Japan,JP,26.213,127.67851,1.0,Asia/Tokyo,1856035
